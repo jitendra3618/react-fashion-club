@@ -46,10 +46,12 @@ Check out the live demo [here](#) (link to your live demo).
 ```npm install```
 
 # Start the development server:
-```http://localhost:3000/```
+
 ```npm start```
+
 # Development server start at
 
-``````
+```http://localhost:3000/```
+
 License
 This project is licensed under the MIT License.
