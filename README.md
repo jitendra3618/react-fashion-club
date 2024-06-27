@@ -12,7 +12,7 @@ front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 - [x] Redux
 - [x] Design System
 - [x] Hooks
-- [x] Firesase
+- [x] Firebase(cloud firestore)
 
 ## Features
 - **Home:** List products
