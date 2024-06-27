@@ -1,7 +1,7 @@
 # Fashion Cube-Ecommerce Application
 
 #General Info
-
+<h1>A React JS with redux application</h1>
 front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 
 [Live Demo](https://quintuslabs.github.io/fashion-cube)
