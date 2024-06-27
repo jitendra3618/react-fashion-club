@@ -8,11 +8,11 @@ front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 
 ## This project is created using:
 
-- [x] Monorepo
-- [x] Lerna
+- [x] React JS
+- [x] Redux
 - [x] Design System
 - [x] Hooks
-- [x] Redux
+- [x] Firesase
 
 ## Future Features
 
